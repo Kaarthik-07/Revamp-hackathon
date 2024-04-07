@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&color=black">  
 </div>
 
-# Quest to End Child Labour (Gamified mode)
+# Quest to End Child Labour... (Gamified mode)
 
 Welcome to Quest to End Child Labour, a narrative-driven adventure game where players join forces with the Powerpuff Girls to save a village from the clutches of child labour. Embark on a journey to empower communities, advocate for children's rights, and create a brighter future for all.
 
